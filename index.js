@@ -9,3 +9,6 @@ console.log(name)
 
 console.log("Height:")
 console.log(height +1)
+
+console.log("Height in string:")
+console.log(parseInt(height) +1)
