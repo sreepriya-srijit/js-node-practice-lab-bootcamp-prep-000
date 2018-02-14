@@ -2,6 +2,7 @@
 
 var name = "jjj"
 var height =74
+var hg_str ="74"
 
 console.log("Name:")
 console.log(name)
